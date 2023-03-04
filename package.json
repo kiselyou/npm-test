@@ -1,6 +1,6 @@
 {
-  "name": "my-test-019016",
-  "version": "1.0.1",
+  "name": "@kiselyou/npm-test",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "author": "Valery Kisialiou <v.a.kiselyov@gmail.com> (http://example.com)",
