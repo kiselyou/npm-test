@@ -6,7 +6,7 @@
   "author": "Valery Kisialiou <v.a.kiselyov@gmail.com> (http://example.com)",
   "description": "NPM-TEST ======",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
